@@ -1,4 +1,4 @@
-﻿using Android.BLE;
+using Android.BLE;
 using Android.BLE.Commands;
 using UnityEngine;
 using UnityEngine.Events;

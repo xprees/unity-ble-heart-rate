@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Android.BLE;
 using Android.BLE.Commands;
 using UnityEngine;

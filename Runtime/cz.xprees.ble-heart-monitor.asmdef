@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "cz.xprees.ble-heart-monitor",
   "rootNamespace": "Xprees.BLE.HeartMonitor",
   "references": [
