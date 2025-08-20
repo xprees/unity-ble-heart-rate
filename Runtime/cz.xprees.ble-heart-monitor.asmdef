@@ -1,0 +1,7 @@
+﻿{
+  "name": "cz.xprees.ble-heart-monitor",
+  "rootNamespace": "Xprees.BLE.HeartMonitor",
+  "references": [
+    "GUID:e5079c9cdf1a83a499e1da1875c7fe10"
+  ]
+}

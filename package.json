@@ -1,0 +1,30 @@
+﻿{
+  "name": "cz.xprees.ble-heart-monitor",
+  "displayName": "BLE Heart Monitor",
+  "version": "1.0.0",
+  "description": "A Unity package for monitoring heart rate via Bluetooth Low Energy (BLE).",
+  "dependencies": {
+    "com.velorexe.androidbluetoothlowenergy": "https://github.com/Velorexe/Unity-Android-Bluetooth-Low-Energy.git"
+  },
+  "category": "Tools",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Unity",
+    "Bluetooth",
+    "BLE",
+    "Heart Rate",
+    "Health"
+  ],
+  "samples": [
+    {
+      "displayName": "Simple Heart Rate Monitor example",
+      "description": "Self-contained Heart Rate Monitor sample with UI and connection dialog included.",
+      "path": "Samples~/HeartRateMonitor"
+    }
+  ],
+  "author": {
+    "name": "xprees",
+    "email": "xprees.developer@gmail.com",
+    "url": "https://xprees.com"
+  }
+}
