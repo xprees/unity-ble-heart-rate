@@ -20,6 +20,11 @@
       "displayName": "Simple Heart Rate Monitor example",
       "description": "Self-contained Heart Rate Monitor sample with UI and connection dialog included.",
       "path": "Samples~/HeartRateMonitor"
+    },
+    {
+      "displayName": "Heart Rate Monitor Display UI",
+      "description": "Heart Rate Monitor sample UI with icon only. Requires integration into your own projec with the Heart Rate Service.",
+      "path": "Samples~/HeartRateDisplay"
     }
   ],
   "author": {
